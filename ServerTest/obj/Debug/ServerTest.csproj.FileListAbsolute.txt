@@ -1,0 +1,7 @@
+G:\C#.NetPrograms\Test\ServerTest\bin\Debug\ServerTest.exe.config
+G:\C#.NetPrograms\Test\ServerTest\bin\Debug\ServerTest.exe
+G:\C#.NetPrograms\Test\ServerTest\bin\Debug\ServerTest.pdb
+G:\C#.NetPrograms\Test\ServerTest\obj\Debug\ServerTest.csprojAssemblyReference.cache
+G:\C#.NetPrograms\Test\ServerTest\obj\Debug\ServerTest.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\Test\ServerTest\obj\Debug\ServerTest.exe
+G:\C#.NetPrograms\Test\ServerTest\obj\Debug\ServerTest.pdb

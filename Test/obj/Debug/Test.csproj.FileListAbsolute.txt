@@ -1,0 +1,10 @@
+G:\C#.NetPrograms\Test\Test\bin\Debug\Test.exe.config
+G:\C#.NetPrograms\Test\Test\bin\Debug\Test.exe
+G:\C#.NetPrograms\Test\Test\bin\Debug\Test.pdb
+G:\C#.NetPrograms\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+G:\C#.NetPrograms\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\Test\Test\obj\Debug\Test.exe
+G:\C#.NetPrograms\Test\Test\obj\Debug\Test.pdb
+G:\C#.NetPrograms\Test\Test\bin\Debug\Newtonsoft.Json.dll
+G:\C#.NetPrograms\Test\Test\bin\Debug\Newtonsoft.Json.xml
+G:\C#.NetPrograms\Test\Test\obj\Debug\Test.csproj.CopyComplete
